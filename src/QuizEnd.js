@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class QizeEnd extends Component{
+class QuizEnd extends Component{
   render()
   {
     return(
@@ -12,4 +12,4 @@ class QizeEnd extends Component{
   }
 }
 
-export default  QizeEnd
+export default QuizEnd
